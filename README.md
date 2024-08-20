@@ -83,10 +83,7 @@ def ship_drug(self,batch_number,name,distributor):
        suppychain.dis_drug(1234,Sanjana)
        supplychain.track_drug(1234)
 
-****OUTPUT FOR THE IMPLEMENTATION OF THE ABOVE CASE SCENARIO****
 
-
-![hackathon 3](https://github.com/user-attachments/assets/79a54cc2-b6b4-4c39-b6a6-8e75a131d6f5)
 
 
 
